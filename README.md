@@ -98,13 +98,5 @@ python -m streamlit run app.py
 
 ---
 
-## 👥 Team & Roles
-* **Member 1** — **AI / ML Lead:** YOLOv8 vision pipeline, hazard detection & dynamic severity scoring engine.
-* **Member 2** — **Backend & Geospatial Lead:** Proximity engine, Haversine clustering & 25m incident deduplication.
-* **Member 3** — **Product & Operations Lead:** Municipal workflow architecture, priority dispatch logic & CSV export.
-* **Member 4** — **Full-Stack & Frontend Lead:** Streamlit command portal, live Folium geospatial map & KPI analytics.
-
----
-
 ## 📄 License
 This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
