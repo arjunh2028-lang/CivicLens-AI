@@ -1,4 +1,4 @@
-# curiousparc
+
 # 🏙️ CivicLens AI
 ### Autonomous Municipal Incident Triage & Geospatial Dispatch Engine
 *Transforming unorganized citizen reports into deduplicated, prioritized municipal work orders in real time.*
