@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.DS_Store
+node_modules/
+carousel_component/node_modules/
+.env
+.venv
+env/
+venv/
